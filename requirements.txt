@@ -1,0 +1,6 @@
+flask==3.0.0
+numpy==1.26.0
+pandas==2.1.0
+# AMD ROCm Optimization Libraries
+tensorflow-rocm==2.14.0
+scikit-learn==1.3.0
